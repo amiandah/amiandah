@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @amiandah
-  I write bugs for Swahilipot Hub Foundation
+  I write cool bugs for Swahilipot Hub Foundation
